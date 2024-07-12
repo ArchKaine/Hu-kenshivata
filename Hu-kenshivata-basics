@@ -1,21 +1,29 @@
 Hu-kenshivata Reference Guide
 
-This guide provides Hu-kenshivata terms and their corresponding English meanings, along with usage notes.
+This guide provides Hu-kenshivata terms and their corresponding English meanings, along with usage notes and explanations for prefixes and suffixes.
 
-Concepts
+Affixes (Prefixes and Suffixes)
 
-    Person (human): Hu (base word for humanity)
-    Woman: Hu-ma (Hu + suffix -ma for female)
-    Man: Hu-pa (Hu + suffix -pa for male)
-    Non-binary/Other: Hu-xe (separate pronoun)
-    Leader/Thinker: Shu-tasu (Shu - doer/thinker + tasu - leader)
-    People: Tana (refers to people in general)
+    Prefixes are added before a word to modify its meaning.
+        Mi-: negates the following word (e.g., mi-vali - not speak)
+        Shu-: indicates revisiting or repeating an action (e.g., shu-wina - bring again)
 
-Pronouns
+    Suffixes are added after a word to indicate grammatical function (e.g., noun, verb, adjective).
+        -lo: indicates possession (e.g., Shu-lo - yours)
+        -ma: feminine gender (e.g., Hu-ma - woman)
+        -pa: masculine gender (e.g., Hu-pa - man)
+        -ta: present tense (e.g., shuhuvali-ta - excited)
 
-    My: Shiri lo (possessive pronoun, shiri - heart)
-    Your: Shu-chi (possessive pronoun, shu - flow/movement, chi - you)
-    His/Her/Their: Hu-shi (possessive pronoun, singular/plural)
+Gendered Pronouns
+
+Hu-kenshivata offers options for both binary and non-binary speakers:
+
+    Binary:
+        Hu-ma (hoo-mah): Woman (uses feminine suffix -ma)
+        Hu-pa (hoo-pah): Man (uses masculine suffix -pa)
+    Non-binary:
+        Hu-xe (hoo-shay): A gender-neutral pronoun for those who don't identify as male or female.
+        E (eh): A singular they/them pronoun, neutral and distinct from other pronouns.
 
 Other
 
@@ -47,6 +55,8 @@ New Words
     Excited: Shuhuvali-ta (Shu- again + Hu-vali - speak + -ta present tense suffix)
     New Discovery: Kenshira (Ken - communication/understanding + shira - new)
     Interstellar: Lo loka etan (Lo - with/for + loka - world + etan - long)
+    Land (verb): Shena (shay-nah)
+    Breathable (lit. human-air knowledge): Hu lo wisha (hoo lo wi-sha)
 
 Prepositions and Articles
 
@@ -60,7 +70,21 @@ Prepositions and Articles
 Notes
 
     It: Re
+    Negated "duva" (lacking) can imply completeness or togetherness.
 
 Grammar Notes
 
-    Negated "duva" (lacking) can imply completeness or togetherness.
+    Prefixes and suffixes can be combined to create new words (e.g., Shu-wali-chi - you will speak again).
+    Wisha (wi-sha) can mean knowledge, understanding, or suitability depending on the context.
+
+Notes for later:
+Vocabulary Expansion:
+
+    Develop a basic numbering system for Hu-kenshivata. This would allow people to quantify things on their travels and discoveries.
+    Add words for common flora and fauna that might be encountered on new worlds.
+    Include basic greetings and terms of courtesy to facilitate interaction with potential alien life.
+
+Grammar Refinement:
+
+    Define the rules for sentence structure in Hu-kenshivata. How are verbs conjugated? Where do adjectives and adverbs typically go in a sentence?
+    Explore the creation of compound words. Can different roots be combined to create new terms?
