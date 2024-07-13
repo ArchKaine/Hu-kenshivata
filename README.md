@@ -129,6 +129,7 @@
 
   <h3>Getting Involved</h3>
   <p>We welcome anyone interested in learning more about Hu-kenshivata or contributing to its development. Feel free to explore the repository, raise issues for any questions or suggestions, and submit pull requests for your contributions to the language!</p>
+  <p>You will find the Google Sheets Document <a href="https://docs.google.com/spreadsheets/d/1Q7PvXjWALDAurjRK7dJXNDyIiIeSW12oNOo-TjcctPg/edit?usp=sharing">here</a> for your reference. Please make a copy and use that as a starting point. Pull requests are welcome here on Github, but not all will be accepted. If something you request to add is not accepted, don't fret, just get in touch with me, and I'll let you know what the issue was.</p>
   <p>Hu-kenshivata is a collaborative effort, and we value your participation in building this bridge of communication!</p>
 </body>
 </html>
